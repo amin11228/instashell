@@ -98,7 +98,7 @@ printf "\e[1;31m [*] Changing IP Address...\n\e[0m"
 changeip 
 fi
 
-done
+
 }
 
 bruteforcer
